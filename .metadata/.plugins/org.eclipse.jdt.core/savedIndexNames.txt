@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\.metadata\.plugins\org.eclipse.jdt.core
