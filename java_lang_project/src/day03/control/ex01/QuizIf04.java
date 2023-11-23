@@ -17,15 +17,21 @@ public class QuizIf04 {
 
         double avg = (double)(math + eng + kor) / 3;
 
-        System.out.println("평균 : " + avg);
-        if(math < 40 || eng < 40 || kor < 40){
-            System.out.println("불합격 입니다.");
+        if(math <= 40 || eng <= 40 || kor <= 40){
+            if(math <= 40)
+                System.out.print("전산 ");
+            if (eng <= 40)
+                System.out.print("영어 ");
+            if (kor <= 40)
+                System.out.print("국어 ");
+            System.out.println("점수 미달로 불합격입니다.");
         }
         else{
+            System.out.println("평균 : " + avg);
             if(avg >= 60)
                 System.out.println("합격입니다.");
             else
-                System.out.println("불합격 입니다.");
+                System.out.println("불합격 입니다.(평균 미달");
         }
 
     }

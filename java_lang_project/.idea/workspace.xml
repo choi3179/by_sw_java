@@ -5,21 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day03/control/ex01/ExamIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/control/ex01/QuizIf01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/control/ex01/QuizIf02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/control/ex01/QuizIf03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/control/ex01/QuizIf04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/ex01/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/ex01/Operator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/ex01/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/ex01/QuizScore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/control/ex02/NewSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/control/ex02/SwitchQuiz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/control/ex02/SwitchQuiz02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/exeption/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopHw01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopHw02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopQuiz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopQuiz02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopQuiz03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopQuiz04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_lang_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_lang_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/control/ex01/QuizIf04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/control/ex01/QuizIf04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,41 +36,98 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2YT03UFDq0KI2V0S5bpAWJiRqFW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day03\exeption" />
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ExamIf" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="day03.control.ex01.ExamIf" />
+      <module name="java_lang_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.control.ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.loop.LoopEx01" />
+      <module name="java_lang_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.loop.LoopEx02" />
+      <module name="java_lang_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switch" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.control.ex02" />
+      <module name="java_lang_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoopEx02" />
+        <item itemvalue="Application.LoopEx01" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,7 +137,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700534064751</updated>
-      <workItem from="1700534065691" duration="10950000" />
+      <workItem from="1700534065691" duration="12105000" />
+      <workItem from="1700610887313" duration="16195000" />
     </task>
     <servers />
   </component>
