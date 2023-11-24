@@ -5,21 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day03/control/ex02/NewSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/control/ex02/SwitchQuiz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/control/ex02/SwitchQuiz02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/exeption/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopHw01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopHw02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopQuiz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopQuiz02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopQuiz03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopQuiz04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/BreakContinueQuiz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/BreakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopWhileEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopWhileEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopWhileEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopWhileEx04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/LoopWhileEx05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/hw/LoopHw03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/hw/LoopHw04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/hw/LoopHw05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/hw/LoopHw06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/hw/baekjoon/Ex14681.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/loop/hw/baekjoon/Ex2525.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/basic/MainInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/basic/hw/Hw01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/basic/hw/Hw02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/basic/hw/Hw03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/basic/hw/Hw04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03/control/ex01/QuizIf04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/control/ex01/QuizIf04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/loop/LoopHw01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/loop/hw/LoopHw01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/loop/LoopHw02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/loop/hw/LoopHw02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +79,20 @@
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Hw03">
+    <configuration name="BreakContinueQuiz01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.loop.BreakContinueQuiz01" />
+      <module name="java_lang_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExamIf" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -89,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03.loop.LoopEx01" />
+    <configuration name="Hw01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.basic.hw.Hw01" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.loop.*" />
+          <option name="PATTERN" value="day4.basic.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +121,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03.loop.LoopEx02" />
+    <configuration name="Hw02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.basic.hw.Hw02" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.loop.*" />
+          <option name="PATTERN" value="day4.basic.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hw03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.basic.hw.Hw03" />
+      <module name="java_lang_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day4.basic.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hw04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.basic.hw.Hw04" />
+      <module name="java_lang_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day4.basic.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,10 +167,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ExamIf" />
+      <item itemvalue="Application.Switch" />
+      <item itemvalue="Application.BreakContinueQuiz01" />
+      <item itemvalue="Application.Hw01" />
+      <item itemvalue="Application.Hw02" />
+      <item itemvalue="Application.Hw03" />
+      <item itemvalue="Application.Hw04" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoopEx02" />
-        <item itemvalue="Application.LoopEx01" />
+        <item itemvalue="Application.Hw03" />
+        <item itemvalue="Application.Hw04" />
+        <item itemvalue="Application.Hw02" />
+        <item itemvalue="Application.Hw01" />
+        <item itemvalue="Application.BreakContinueQuiz01" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +196,7 @@
       <updated>1700534064751</updated>
       <workItem from="1700534065691" duration="12105000" />
       <workItem from="1700610887313" duration="16195000" />
+      <workItem from="1700697798278" duration="17986000" />
     </task>
     <servers />
   </component>

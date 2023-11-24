@@ -1,4 +1,4 @@
-package day03.loop;
+package day03.loop.hw;
 
 import java.util.Scanner;
 
