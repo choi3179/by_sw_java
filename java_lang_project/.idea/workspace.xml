@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/foreach/ExForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/foreach/ForEachQuiz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/foreach/ForEachQuiz02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/quiz/ArrayQuiz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/quiz/ArrayQuiz02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/random/RandomEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/random/RandomEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/random/RandomQuiz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/random/RandomQuiz02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/array/ex/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/array/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/array/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/method/MethodQuiz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/method/MethodQuiz02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/method/MethodQuiz03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/sort/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/sort/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,29 +37,28 @@
 }</component>
   <component name="ProjectId" id="2YT03UFDq0KI2V0S5bpAWJiRqFW" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.scopes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
@@ -72,13 +68,26 @@
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomQuiz02">
-    <configuration name="ArrayQuiz02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.array.ex.quiz.ArrayQuiz02" />
+  <component name="RunManager" selected="Application.MethodQuiz03">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.sort.BubbleSort" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.array.ex.quiz.*" />
+          <option name="PATTERN" value="day6.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.array.Ex02" />
+      <module name="java_lang_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day6.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.array.ex.random.RandomEx01" />
+    <configuration name="MethodQuiz01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.method.MethodQuiz01" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.array.ex.random.*" />
+          <option name="PATTERN" value="day6.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.array.ex.random.RandomEx02" />
+    <configuration name="MethodQuiz02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.method.MethodQuiz02" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.array.ex.random.*" />
+          <option name="PATTERN" value="day6.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,25 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomQuiz01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.array.ex.random.RandomQuiz01" />
+    <configuration name="MethodQuiz03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.method.MethodQuiz03" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.array.ex.random.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomQuiz02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.array.ex.random.RandomQuiz02" />
-      <module name="java_lang_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day05.array.ex.random.*" />
+          <option name="PATTERN" value="day6.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,19 +159,19 @@
     <list>
       <item itemvalue="Application.ExamIf" />
       <item itemvalue="Application.Switch" />
-      <item itemvalue="Application.ArrayQuiz02" />
-      <item itemvalue="Application.RandomEx01" />
-      <item itemvalue="Application.RandomEx02" />
-      <item itemvalue="Application.RandomQuiz01" />
-      <item itemvalue="Application.RandomQuiz02" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.Ex02" />
+      <item itemvalue="Application.MethodQuiz01" />
+      <item itemvalue="Application.MethodQuiz02" />
+      <item itemvalue="Application.MethodQuiz03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomQuiz02" />
-        <item itemvalue="Application.RandomQuiz01" />
-        <item itemvalue="Application.RandomEx02" />
-        <item itemvalue="Application.RandomEx01" />
-        <item itemvalue="Application.ArrayQuiz02" />
+        <item itemvalue="Application.MethodQuiz03" />
+        <item itemvalue="Application.MethodQuiz02" />
+        <item itemvalue="Application.MethodQuiz01" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.Ex02" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +186,8 @@
       <workItem from="1700534065691" duration="12105000" />
       <workItem from="1700610887313" duration="16195000" />
       <workItem from="1700697798278" duration="17986000" />
-      <workItem from="1700784806983" duration="12977000" />
+      <workItem from="1700784806983" duration="14083000" />
+      <workItem from="1701045647576" duration="6985000" />
     </task>
     <servers />
   </component>
