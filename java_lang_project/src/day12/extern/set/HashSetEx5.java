@@ -1,14 +1,13 @@
 package day12.extern.set;
-
 import java.util.*;
 
 class HashSetEx5 {
 	public static void main(String args[]) {
 		HashSet setA = new HashSet();
 		HashSet setB = new HashSet();
-		HashSet setHab = new HashSet();		// 합집합
-		HashSet setKyo = new HashSet();		// 교집합
-		HashSet setCha = new HashSet();		// 차집합
+		HashSet setHab = new HashSet();
+		HashSet setKyo = new HashSet();
+		HashSet setCha = new HashSet();
 
 		setA.add("1");		setA.add("2");
 		setA.add("3");		setA.add("4");
@@ -29,7 +28,7 @@ class HashSetEx5 {
 
 		it = setA.iterator();
 		while(it.hasNext()) {
-			Object tmp = it.next();
+			Object tmp = it.next();  
 			if(!setB.contains(tmp))
 				setCha.add(tmp);
 		}
@@ -42,8 +41,8 @@ class HashSetEx5 {
 		while(it.hasNext())
 			setHab.add(it.next());
 
-		System.out.println("A ∩ B = "+setKyo);  	// 교집합
-		System.out.println("A ∪ B = "+setHab); 	// 합집합
+		System.out.println("A ∩ B = "+setKyo);  //  // 한글 ㄷ을 누르고 한자키
+		System.out.println("A ∪ B = "+setHab); // A,B의 합집합 문자열
 		System.out.println("A - B = "+setCha); 
 	}
 }

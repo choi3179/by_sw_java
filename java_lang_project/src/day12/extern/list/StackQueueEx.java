@@ -1,15 +1,13 @@
-package day12.extern.list;
-
 import java.util.*;
 
 class StackQueueEx
 {
-	public static void main(String[] args) 
+	public static void main(String[] args)
 	{
 		Stack st = new Stack();
-		// LinkedList�� Queue�������̽��� �����Ͽ���.
-		Queue q = new LinkedList();	
-		
+		// LinkedList는 Queue인터페이스를 구현하였다.
+		Queue q = new LinkedList();
+
 		st.push("0");
 		st.push("1");
 		st.push("2");

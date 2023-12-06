@@ -1,5 +1,4 @@
 package day12.extern.map;
-
 import java.util.*;
 class HashSetLotto{
 	public static void main(String[] args) 	{

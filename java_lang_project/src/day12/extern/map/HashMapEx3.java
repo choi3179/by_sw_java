@@ -1,41 +1,40 @@
 package day12.extern.map;
-
 import java.util.*;
 
 class HashMapEx3 {
 	static HashMap phoneBook = new HashMap();
 
 	public static void main(String[] args) {
-		addPhoneNo("ģ��", "���ڹ�", "010-111-1111");
-		addPhoneNo("ģ��", "���ڹ�", "010-222-2222");
-		addPhoneNo("ģ��", "���ڹ�", "010-333-3333");
-		addPhoneNo("ȸ��", "��븮", "010-444-4444");
-		addPhoneNo("ȸ��", "��븮", "010-555-5555");
-		addPhoneNo("ȸ��", "�ڴ븮", "010-666-6666");
-		addPhoneNo("ȸ��", "�̰���", "010-777-7777");
-		addPhoneNo("��Ź", "010-888-8888");
+		addPhoneNo("친구", "이자바", "010-111-1111");
+		addPhoneNo("친구", "김자바", "010-222-2222");
+		addPhoneNo("친구", "김자바", "010-333-3333");
+		addPhoneNo("회사", "김대리", "010-444-4444");
+		addPhoneNo("회사", "김대리", "010-555-5555");
+		addPhoneNo("회사", "박대리", "010-666-6666");
+		addPhoneNo("회사", "이과장", "010-777-7777");
+		addPhoneNo("세탁", "010-888-8888");
 
 		printList();
 	} // main
 
-	// �׷��� �߰��ϴ� �޼���
+	// 그룹을 추가하는 메서드
 	static void addGroup(String groupName) {
 		if(!phoneBook.containsKey(groupName))
 			phoneBook.put(groupName, new HashMap());
 	}
 
-	// �׷쿡 ��ȭ��ȣ�� �߰��ϴ� �޼���
+	// 그룹에 전화번호를 추가하는 메서드
 	static void addPhoneNo(String groupName, String name, String tel) {
 		addGroup(groupName);
 		HashMap group = (HashMap)phoneBook.get(groupName);
-		group.put(tel, name);	// �̸��� �ߺ��� �� ������ ��ȭ��ȣ�� key�� �����Ѵ�.
+		group.put(tel, name);	// 이름은 중복될 수 있으니 전화번호를 key로 저장한다.
 	}
 
 	static void addPhoneNo(String name, String tel) {
 		addPhoneNo("��Ÿ", name, tel);
 	}
 
-	// ��ȭ��ȣ�� ��ü�� ����ϴ� �޼���
+	// 전화번호부 전체를 출력하는 메서드
 	static void printList() {
 		Set set = phoneBook.entrySet();
 		Iterator it = set.iterator();	

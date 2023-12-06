@@ -3,6 +3,9 @@ package day12.extern.list;
 import java.util.*;
 import java.io.*;
 
+import java.util.*;
+import java.io.*;
+
 class PropertiesEx3
 {
 	public static void main(String[] args)
@@ -10,15 +13,15 @@ class PropertiesEx3
 		Properties prop = new Properties();
 
 		prop.setProperty("timeout","30");
-		prop.setProperty("language","�ѱ�");
+		prop.setProperty("language","한글");
 		prop.setProperty("size","10");
 		prop.setProperty("capacity","10");
 
 		try {
-			 prop.store(new FileOutputStream("output.txt"), "Properties Example");
-			 prop.storeToXML(new FileOutputStream("output.xml"), "Properties Example");
+			prop.store(new FileOutputStream("output.txt"), "Properties Example");
+			prop.storeToXML(new FileOutputStream("output.xml"), "Properties Example");
 		} catch(IOException e) {
-			e.printStackTrace();		
+			e.printStackTrace();
 		}
 	}
 }

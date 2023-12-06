@@ -1,5 +1,4 @@
 package day12.extern.set;
-
 import java.util.*;
 class TreeSetEx1 {
 	public static void main(String[] args) {

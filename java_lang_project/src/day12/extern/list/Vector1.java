@@ -8,8 +8,8 @@ class  Vector1{
 		v[1] = new Vector(5);
 		v[2] = new Vector(5,3);
 		for(int i = 0; i < v.length; i++){
-			System.out.println("����V["+i+"] size = "+ v[i].size());
-			System.out.println("����V["+i+"] capacity = "+v[i].capacity());
+			System.out.println("벡터V["+i+"] size = "+ v[i].size());
+			System.out.println("벡터["+i+"] capacity = "+v[i].capacity());
 		}
 		for(int i =0; i < 3 ; i++){
 			for(int j = 0 ; j < 12; j++)
@@ -17,8 +17,8 @@ class  Vector1{
 		}
 		System.out.println();
 		for(int i = 0; i < v.length; i++){
-			System.out.println("����V["+i+"] size = "+ v[i].size());
-			System.out.println("����V["+i+"] capacity = "+v[i].capacity());
+			System.out.println("벡터["+i+"] size = "+ v[i].size());
+			System.out.println("벡터["+i+"] capacity = "+v[i].capacity());
 		}
 	}
 }

@@ -1,5 +1,4 @@
 package day12.extern.map;
-
 import java.util.*;
 
 class HashMapEx4

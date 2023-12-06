@@ -5,15 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/day12/hw/BJ1436.java" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/day12/hw/BJ1427.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/hw/BJ2750.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/generic/GenericEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/generic/GenericEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/hw/BJ1934.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/io/BufferedReaderEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/io/InputStreamEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/io/IoEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/io/IoEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/io/quiz/BufferedReaderQuiz01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
->>>>>>> 44d84bbd3d6916a0b23f59e1d5bee52fa35eb724
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/ArrayListLinkedListTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/ArrayListLinkedListTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/IteratorEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/IteratorEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/StackEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/StackEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/StackQueueEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/StackQueueEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/Vector1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/Vector1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/Vector2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/Vector2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/HashSetLotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/HashSetLotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/Hashtable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/Hashtable1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/TreeMapEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/TreeMapEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/TreeSetEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/TreeSetEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/TreeSetEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/TreeSetEx2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +88,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/jacob/OneDrive/문서/GitHub/by_sw_java/java_lang_project/java_lang_project",
+    "last_opened_file_path": "C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/day12/extern/set",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,26 +104,25 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day12\extern\set" />
+      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day12\extern\map" />
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day13\choiceFormat" />
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day12\extern" />
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day10\api\export" />
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day03\exeption" />
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
     </key>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.BJ1436">
-=======
-  <component name="RunManager" selected="Application.BJ2750">
->>>>>>> 44d84bbd3d6916a0b23f59e1d5bee52fa35eb724
-    <configuration name="BJ1193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.hw.BJ1193" />
+  <component name="RunManager" selected="Application.BJ1934">
+    <configuration name="BJ1934" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.hw.BJ1934" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.hw.*" />
+          <option name="PATTERN" value="day13.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,16 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="BJ1436" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.hw.BJ1436" />
-=======
-    <configuration name="BJ1427" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.hw.BJ1427" />
+    <configuration name="BufferedReaderEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.io.BufferedReaderEx01" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.hw.*" />
+          <option name="PATTERN" value="day13.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,13 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BJ2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.hw.BJ2750" />
->>>>>>> 44d84bbd3d6916a0b23f59e1d5bee52fa35eb724
+    <configuration name="BufferedReaderQuiz01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.io.quiz.BufferedReaderQuiz01" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.hw.*" />
+          <option name="PATTERN" value="day13.io.quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,14 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExamIf" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="day03.control.ex01.ExamIf" />
+    <configuration name="IoEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.io.IoEx01" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.control.ex01.*" />
+          <option name="PATTERN" value="day13.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,32 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.quiz01.Main" />
+    <configuration name="IoEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.io.IoEx02" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.quiz01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.control.ex02" />
-      <module name="java_lang_project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMapEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.map.TreeMapEx01" />
-      <module name="java_lang_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day12.map.*" />
+          <option name="PATTERN" value="day13.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,35 +183,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExamIf" />
-      <item itemvalue="Application.Switch" />
-<<<<<<< HEAD
-      <item itemvalue="Application.BJ1193" />
-      <item itemvalue="Application.BJ1436" />
-      <item itemvalue="Application.HashMapEx04" />
-=======
-      <item itemvalue="Application.BJ1427" />
-      <item itemvalue="Application.BJ2750" />
-      <item itemvalue="Application.BJ1193" />
->>>>>>> 44d84bbd3d6916a0b23f59e1d5bee52fa35eb724
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.TreeMapEx01" />
+      <item itemvalue="Application.BJ1934" />
+      <item itemvalue="Application.BufferedReaderEx01" />
+      <item itemvalue="Application.BufferedReaderQuiz01" />
+      <item itemvalue="Application.IoEx01" />
+      <item itemvalue="Application.IoEx02" />
     </list>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.BJ1436" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BJ1193" />
-        <item itemvalue="Application.TreeMapEx01" />
-        <item itemvalue="Application.HashMapEx04" />
-=======
-        <item itemvalue="Application.BJ2750" />
-        <item itemvalue="Application.BJ1427" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BJ1193" />
-        <item itemvalue="Application.TreeMapEx01" />
->>>>>>> 44d84bbd3d6916a0b23f59e1d5bee52fa35eb724
+        <item itemvalue="Application.BJ1934" />
+        <item itemvalue="Application.BufferedReaderQuiz01" />
+        <item itemvalue="Application.BufferedReaderEx01" />
+        <item itemvalue="Application.IoEx02" />
+        <item itemvalue="Application.IoEx01" />
       </list>
     </recent_temporary>
   </component>
