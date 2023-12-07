@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/hw/BJ15894.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/hw/BJ17103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/file/FileCopyEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/file/FileEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/file/FileInputEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/file/RandomAccessFileEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/file/UriCopyEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/file/object/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/file/object/ObjectInputStreamEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/file/object/ObjectOutputStreamEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/file/object2/FileObjectLoadEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/file/object2/FileObjectSaveEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/quiz/Bmi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/quiz/BmiRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/io/quiz/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_lang_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_lang_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day14/hw/BJ17103.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day14/hw/BJ17103.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +188,7 @@
       <workItem from="1701388886030" duration="19609000" />
       <workItem from="1701647907691" duration="24637000" />
       <workItem from="1701733928454" duration="25172000" />
-      <workItem from="1701906685586" duration="19708000" />
+      <workItem from="1701906685586" duration="20128000" />
     </task>
     <servers />
   </component>
