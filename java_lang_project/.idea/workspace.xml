@@ -5,39 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day13/generic/GenericEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/generic/GenericEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/hw/BJ1934.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/io/BufferedReaderEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/io/InputStreamEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/io/IoEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/io/IoEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/io/quiz/BufferedReaderQuiz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/hw/BJ15894.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/hw/BJ17103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/file/FileCopyEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/file/FileEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/file/FileInputEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/file/RandomAccessFileEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/file/UriCopyEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/file/object/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/file/object/ObjectInputStreamEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/file/object/ObjectOutputStreamEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/file/object2/FileObjectLoadEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/file/object2/FileObjectSaveEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/quiz/Bmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/quiz/BmiRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/io/quiz/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/ArrayListLinkedListTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/ArrayListLinkedListTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/IteratorEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/IteratorEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/PropertiesEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/StackEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/StackEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/StackQueueEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/StackQueueEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/Vector1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/Vector1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/list/Vector2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/list/Vector2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/HashMapEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/HashSetLotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/HashSetLotto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/Hashtable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/Hashtable1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/map/TreeMapEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/map/TreeMapEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/HashSetEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/TreeSetEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/TreeSetEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/extern/set/TreeSetEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/extern/set/TreeSetEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_lang_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_lang_project.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +37,7 @@
         <option value="package-info" />
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -86,6 +74,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/day12/extern/set",
@@ -116,13 +105,13 @@
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BJ1934">
-    <configuration name="BJ1934" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13.hw.BJ1934" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FileObjectLoadEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.io.file.object2.FileObjectLoadEx" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13.hw.*" />
+          <option name="PATTERN" value="day14.io.file.object2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferedReaderEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13.io.BufferedReaderEx01" />
+    <configuration name="FileObjectSaveEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.io.file.object2.FileObjectSaveEx" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13.io.*" />
+          <option name="PATTERN" value="day14.io.file.object2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferedReaderQuiz01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13.io.quiz.BufferedReaderQuiz01" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.io.quiz.Main" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13.io.quiz.*" />
+          <option name="PATTERN" value="day14.io.quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IoEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13.io.IoEx01" />
+    <configuration name="ObjectInputStreamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.io.file.object.ObjectInputStreamEx" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13.io.*" />
+          <option name="PATTERN" value="day14.io.file.object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IoEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13.io.IoEx02" />
+    <configuration name="RandomAccessFileEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.io.file.RandomAccessFileEx" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13.io.*" />
+          <option name="PATTERN" value="day14.io.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BJ1934" />
-      <item itemvalue="Application.BufferedReaderEx01" />
-      <item itemvalue="Application.BufferedReaderQuiz01" />
-      <item itemvalue="Application.IoEx01" />
-      <item itemvalue="Application.IoEx02" />
+      <item itemvalue="Application.FileObjectLoadEx" />
+      <item itemvalue="Application.FileObjectSaveEx" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ObjectInputStreamEx" />
+      <item itemvalue="Application.RandomAccessFileEx" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BJ1934" />
-        <item itemvalue="Application.BufferedReaderQuiz01" />
-        <item itemvalue="Application.BufferedReaderEx01" />
-        <item itemvalue="Application.IoEx02" />
-        <item itemvalue="Application.IoEx01" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RandomAccessFileEx" />
+        <item itemvalue="Application.FileObjectLoadEx" />
+        <item itemvalue="Application.FileObjectSaveEx" />
+        <item itemvalue="Application.ObjectInputStreamEx" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +207,7 @@
       <workItem from="1701388886030" duration="19609000" />
       <workItem from="1701647907691" duration="24637000" />
       <workItem from="1701733928454" duration="25172000" />
+      <workItem from="1701906685586" duration="19708000" />
     </task>
     <servers />
   </component>
