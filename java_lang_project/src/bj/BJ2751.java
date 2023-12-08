@@ -1,4 +1,4 @@
-package day11.hw;
+package bj;
 
 import java.util.*;
 

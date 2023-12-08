@@ -1,4 +1,4 @@
-package day09.hw;
+package bj;
 
 import java.util.Scanner;
 public class BJ2941 {

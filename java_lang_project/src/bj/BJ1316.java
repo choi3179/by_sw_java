@@ -1,4 +1,4 @@
-package day10.hw;
+package bj;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package day12.hw;
+package bj;
 
 import java.io.*;
 import java.util.Comparator;
