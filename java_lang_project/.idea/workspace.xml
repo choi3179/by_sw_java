@@ -5,33 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bj/BJ1010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj/BJ17103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/hw/BJ19532.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/syncronized/ex01/Atm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/syncronized/ex01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/syncronized/ex01/UserAtm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/thread/ThreadPriorityEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/thread/ex01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/thread/ex01/UserThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/thread/ex02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/thread/ex02/UserRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/thread/ex03/GraphicThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15/thread/ex03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj/BJ10815.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj/BJ14425.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj/BJ7785.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj/input14425.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/hw/BJ1620.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/lambda/ex01/LambdaEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/lambda/ex02/LambdaEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/lambda/ex03/LambdaEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/lambda/ex04/LambdaMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp01/GetAllByNameEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp01/GetAllByNameEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp02/UrlEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp02/UrlEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp03/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp03/ServerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp04/ClientTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp04/ServerTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp05/ClientEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp05/ServerEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/hw/BJ2941.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/BJ2941.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/hw/BJ1316.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/BJ1316.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/hw/BJ25206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/BJ25206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/hw/input25206.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/input25206.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/hw/BJ2751.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/BJ2751.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/hw/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/hw/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/hw/BJ11279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/BJ11279.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/hw/BJ1193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/BJ1193.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/hw/BJ1436.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/BJ1436.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/hw/PGTwoCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/PGTwoCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/hw/input11279.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/input11279.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/hw/BJ17103.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,29 +71,30 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/day12/extern/set&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/day16/lambda/ex03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day16\lambda\ex03" />
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day12\extern\set" />
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day12\extern\map" />
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
@@ -112,13 +107,13 @@
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day10\api\export" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BJ19532">
-    <configuration name="BJ1010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj.BJ1010" />
+  <component name="RunManager" selected="Application.BJ1620">
+    <configuration name="BJ1620" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.hw.BJ1620" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bj.*" />
+          <option name="PATTERN" value="day16.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BJ19532" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15.hw.BJ19532" />
+    <configuration name="ClientEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.network.tcp05.ClientEx" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15.hw.*" />
+          <option name="PATTERN" value="day16.network.tcp05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15.syncronized.ex01.Main" />
+    <configuration name="ClientTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.network.tcp04.ClientTime" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15.syncronized.ex01.*" />
+          <option name="PATTERN" value="day16.network.tcp04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPriorityEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15.thread.ThreadPriorityEx" />
+    <configuration name="ServerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.network.tcp05.ServerEx" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15.thread.*" />
+          <option name="PATTERN" value="day16.network.tcp05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadStarEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15.thread.ThreadStarEx" />
+    <configuration name="ServerTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.network.tcp04.ServerTime" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15.thread.*" />
+          <option name="PATTERN" value="day16.network.tcp04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,19 +174,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BJ1010" />
-      <item itemvalue="Application.BJ19532" />
-      <item itemvalue="Application.ThreadPriorityEx" />
-      <item itemvalue="Application.ThreadStarEx" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.BJ1620" />
+      <item itemvalue="Application.ClientEx" />
+      <item itemvalue="Application.ClientTime" />
+      <item itemvalue="Application.ServerEx" />
+      <item itemvalue="Application.ServerTime" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BJ19532" />
-        <item itemvalue="Application.BJ1010" />
-        <item itemvalue="Application.ThreadStarEx" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ThreadPriorityEx" />
+        <item itemvalue="Application.BJ1620" />
+        <item itemvalue="Application.ClientEx" />
+        <item itemvalue="Application.ServerEx" />
+        <item itemvalue="Application.ClientTime" />
+        <item itemvalue="Application.ServerTime" />
       </list>
     </recent_temporary>
   </component>
@@ -215,11 +210,17 @@
       <workItem from="1701647907691" duration="24637000" />
       <workItem from="1701733928454" duration="25172000" />
       <workItem from="1701906685586" duration="20128000" />
-      <workItem from="1701993275595" duration="18881000" />
+      <workItem from="1701993275595" duration="19404000" />
+      <workItem from="1702253005036" duration="11000" />
+      <workItem from="1702253025233" duration="19807000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
