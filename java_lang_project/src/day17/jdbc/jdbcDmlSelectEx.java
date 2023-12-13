@@ -10,7 +10,7 @@ public class jdbcDmlSelectEx {
 
         // 2. Connection & Open
         //             [driver:IP:Port/DB명]
-        String url = "jdbc:mariadb://localhost:3306/market_db";
+        String url = "jdbc:mariadb://localhost:3306/encore";
         String uid = "root";
         String pwd = "root";
 
@@ -19,7 +19,7 @@ public class jdbcDmlSelectEx {
 
         // 3. SQL 명령어 사용(DML)
         Statement stmt = conn.createStatement();
-        ResultSet rs = stmt.executeQuery("SELECT * FROM MEMBER");     // 쿼리에 대한 반환값 저장
+        ResultSet rs = stmt.executeQuery("SELECT * FROM gift");     // 쿼리에 대한 반환값 저장
 
         System.out.println("ResultSet의 결과값 조회");
         System.out.println("mem_id\tmem_name\tmem_num");

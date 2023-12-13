@@ -5,22 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mariadb_java_client_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj/BJ10816.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj/BJ11478.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj/BJ1764.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp06_extern/ClientChat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day16/network/tcp06_extern/ServerChat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/jdbc/JdbcTestEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/jdbc/jdbcDmlSelectEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/network_chat/TcpMultiChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/network_chat/TcpMultiChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/udp01/DatagramClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/udp01/DatagramServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/udp2_extern/UDPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/udp2_extern/UDPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/connection/CloseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/connection/ConnectionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/connection/ConnectionSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/hw/BJ1978.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/jdbc/PreparedStmtEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/jdbc/PreparedStmtEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/jdbc/crud/GiftDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/jdbc/crud/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/jdbc_mvc/GiftController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/jdbc_mvc/GiftDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/jdbc_mvc/GiftView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/quiz01/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/quiz01/DeptVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/quiz01/DeptView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/quiz01/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_lang_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_lang_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day17/jdbc/jdbcDmlSelectEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17/jdbc/jdbcDmlSelectEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,27 +67,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Playdata/Downloads/mariadb-java-client-3.3.1.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Playdata/Downloads/mariadb-java-client-3.3.1.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day16\lambda\ex03" />
@@ -102,13 +103,13 @@
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day13\choiceFormat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.jdbcDmlSelectEx">
-    <configuration name="BJ1764" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj.BJ1764" />
+  <component name="RunManager" selected="Application.BJ1978">
+    <configuration name="BJ1978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.hw.BJ1978" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bj.*" />
+          <option name="PATTERN" value="day18.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatagramClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17.udp01.DatagramClient" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.jdbc.crud.Main" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17.udp01.*" />
+          <option name="PATTERN" value="day18.jdbc.crud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatagramServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17.udp01.DatagramServer" />
+    <configuration name="PreparedStmtEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.jdbc.PreparedStmtEx02" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17.udp01.*" />
+          <option name="PATTERN" value="day18.jdbc.crud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcTestEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17.jdbc.JdbcTestEx01" />
+    <configuration name="day18.quiz01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.quiz01.Main" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17.jdbc.*" />
+          <option name="PATTERN" value="day18.quiz01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,7 +156,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jdbcDmlSelectEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="jdbcDmlSelectEx" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day17.jdbc.jdbcDmlSelectEx" />
       <module name="java_lang_project" />
       <extension name="coverage">
@@ -169,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BJ1764" />
-      <item itemvalue="Application.DatagramClient" />
-      <item itemvalue="Application.DatagramServer" />
-      <item itemvalue="Application.JdbcTestEx01" />
+      <item itemvalue="Application.BJ1978" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.day18.quiz01.Main" />
+      <item itemvalue="Application.PreparedStmtEx02" />
       <item itemvalue="Application.jdbcDmlSelectEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BJ1978" />
+        <item itemvalue="Application.day18.quiz01.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.jdbcDmlSelectEx" />
-        <item itemvalue="Application.BJ1764" />
-        <item itemvalue="Application.JdbcTestEx01" />
-        <item itemvalue="Application.DatagramClient" />
-        <item itemvalue="Application.DatagramServer" />
+        <item itemvalue="Application.PreparedStmtEx02" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +210,7 @@
       <workItem from="1702253005036" duration="11000" />
       <workItem from="1702253025233" duration="20672000" />
       <workItem from="1702338864301" duration="20507000" />
+      <workItem from="1702425101500" duration="21395000" />
     </task>
     <servers />
   </component>
