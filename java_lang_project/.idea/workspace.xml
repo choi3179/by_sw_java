@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day18/connection/CloseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/connection/ConnectionHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/connection/ConnectionSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/hw/BJ1978.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/jdbc/PreparedStmtEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/jdbc/PreparedStmtEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/jdbc/crud/GiftDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/jdbc/crud/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/jdbc_mvc/GiftController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/jdbc_mvc/GiftDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/jdbc_mvc/GiftView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/quiz01/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/quiz01/DeptVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/quiz01/DeptView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18/quiz01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj/BJ28278.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj/BJ9935.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/jdbc/jdbcDmlSelectEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17/jdbc/jdbcDmlSelectEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +60,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Playdata/Downloads/mariadb-java-client-3.3.1.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/spring_workspace/springmvc01&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -103,7 +89,7 @@
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day13\choiceFormat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BJ1978">
+  <component name="RunManager" selected="Application.BJ28278">
     <configuration name="BJ1978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day18.hw.BJ1978" />
       <module name="java_lang_project" />
@@ -117,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18.jdbc.crud.Main" />
+    <configuration name="BJ28278" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj.BJ28278" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18.jdbc.crud.*" />
+          <option name="PATTERN" value="bj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PreparedStmtEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18.jdbc.PreparedStmtEx02" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.jdbc.crud.Main" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
@@ -171,18 +157,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BJ1978" />
+      <item itemvalue="Application.BJ28278" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.day18.quiz01.Main" />
-      <item itemvalue="Application.PreparedStmtEx02" />
       <item itemvalue="Application.jdbcDmlSelectEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BJ28278" />
         <item itemvalue="Application.BJ1978" />
         <item itemvalue="Application.day18.quiz01.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.jdbcDmlSelectEx" />
-        <item itemvalue="Application.PreparedStmtEx02" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +196,9 @@
       <workItem from="1702253005036" duration="11000" />
       <workItem from="1702253025233" duration="20672000" />
       <workItem from="1702338864301" duration="20507000" />
-      <workItem from="1702425101500" duration="21395000" />
+      <workItem from="1702425101500" duration="23599000" />
+      <workItem from="1702512333524" duration="3589000" />
+      <workItem from="1702530121290" duration="1912000" />
     </task>
     <servers />
   </component>
