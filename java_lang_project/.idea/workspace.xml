@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bj/BJ28278.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj/BJ9935.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj/BJ17298.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj/BJ3003.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bj/BJ9935.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/BJ9935.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,20 @@
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day13\choiceFormat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BJ28278">
+  <component name="RunManager" selected="Application.BJ17298">
+    <configuration name="BJ17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj.BJ17298" />
+      <module name="java_lang_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BJ1978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day18.hw.BJ1978" />
       <module name="java_lang_project" />
@@ -116,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18.jdbc.crud.Main" />
+    <configuration name="BJ3003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj.BJ3003" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18.jdbc.crud.*" />
+          <option name="PATTERN" value="bj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,25 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day18.quiz01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18.quiz01.Main" />
+    <configuration name="BJ9935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj.BJ9935" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18.quiz01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="jdbcDmlSelectEx" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17.jdbc.jdbcDmlSelectEx" />
-      <module name="java_lang_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day17.jdbc.*" />
+          <option name="PATTERN" value="bj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +157,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BJ17298" />
+      <item itemvalue="Application.BJ3003" />
+      <item itemvalue="Application.BJ9935" />
       <item itemvalue="Application.BJ1978" />
       <item itemvalue="Application.BJ28278" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.day18.quiz01.Main" />
-      <item itemvalue="Application.jdbcDmlSelectEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BJ17298" />
+        <item itemvalue="Application.BJ3003" />
+        <item itemvalue="Application.BJ9935" />
         <item itemvalue="Application.BJ28278" />
         <item itemvalue="Application.BJ1978" />
-        <item itemvalue="Application.day18.quiz01.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.jdbcDmlSelectEx" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +200,9 @@
       <workItem from="1702425101500" duration="23599000" />
       <workItem from="1702512333524" duration="3589000" />
       <workItem from="1702530121290" duration="1912000" />
+      <workItem from="1702598477413" duration="8811000" />
+      <workItem from="1702629735494" duration="594000" />
+      <workItem from="1702802285068" duration="4899000" />
     </task>
     <servers />
   </component>
