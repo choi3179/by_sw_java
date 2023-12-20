@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bj/BJ17298.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj/BJ3003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj/hw/BJ12789.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bj/BJ9935.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj/BJ9935.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,13 +88,13 @@
       <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day13\choiceFormat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BJ17298">
-    <configuration name="BJ17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj.BJ17298" />
+  <component name="RunManager" selected="Application.BJ12789">
+    <configuration name="BJ12789" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj.hw.BJ12789" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bj.*" />
+          <option name="PATTERN" value="bj.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BJ1978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18.hw.BJ1978" />
+    <configuration name="BJ17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj.BJ17298" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18.hw.*" />
+          <option name="PATTERN" value="bj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,19 +155,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BJ12789" />
       <item itemvalue="Application.BJ17298" />
       <item itemvalue="Application.BJ3003" />
       <item itemvalue="Application.BJ9935" />
-      <item itemvalue="Application.BJ1978" />
       <item itemvalue="Application.BJ28278" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BJ12789" />
         <item itemvalue="Application.BJ17298" />
         <item itemvalue="Application.BJ3003" />
         <item itemvalue="Application.BJ9935" />
         <item itemvalue="Application.BJ28278" />
-        <item itemvalue="Application.BJ1978" />
       </list>
     </recent_temporary>
   </component>
