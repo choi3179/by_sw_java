@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bj/hw/BJ2164.java" afterDir="false" />
+    <list default="true" id="d4a03a1b-c2f5-4570-86e6-f84d587abbdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bj/hw/BJ11866.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +17,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
-        <option value="Interface" />
-        <option value="Enum" />
-        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -28,28 +24,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;choi3179&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="86362abb-f84e-427d-83e9-91146e19c6a2" />
-        <option name="url" value="https://github.com/choi3179/by_sw_java.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2YT03UFDq0KI2V0S5bpAWJiRqFW" />
+  <component name="ProjectId" id="2aAn9J6cg3zUtVPQdJjP3IaM0Db" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -57,41 +35,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/jacob/OneDrive/문서/GitHub/by_sw_java/java_lang_project/java_lang_project",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Playdata/Desktop/PLAYDATA 자료/자바/소스모음/java_lang_project/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+    "last_opened_file_path": "C:/Users/jacob/OneDrive/문서/GitHub/by_sw_java/java_lang_project/java_lang_project"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day16\lambda\ex03" />
-      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day12\extern\set" />
-      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day12\extern\map" />
-      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day17\udp2_extern" />
-      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day16\network\tcp06_extern" />
-      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\bj" />
-      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src" />
-      <recent name="C:\Users\Playdata\Desktop\PLAYDATA 자료\자바\소스모음\java_lang_project\src\day13\choiceFormat" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.BJ2164">
-    <configuration name="BJ12789" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj.hw.BJ12789" />
+  <component name="RunManager">
+    <configuration name="BJ11866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj.hw.BJ11866" />
       <module name="java_lang_project" />
       <extension name="coverage">
         <pattern>
@@ -103,118 +52,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BJ17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj.BJ17298" />
-      <module name="java_lang_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BJ2164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj.hw.BJ2164" />
-      <module name="java_lang_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bj.hw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BJ3003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj.BJ3003" />
-      <module name="java_lang_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BJ9935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj.BJ9935" />
-      <module name="java_lang_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.BJ2164" />
-      <item itemvalue="Application.BJ12789" />
-      <item itemvalue="Application.BJ17298" />
-      <item itemvalue="Application.BJ3003" />
-      <item itemvalue="Application.BJ9935" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BJ2164" />
-        <item itemvalue="Application.BJ12789" />
-        <item itemvalue="Application.BJ17298" />
-        <item itemvalue="Application.BJ3003" />
-        <item itemvalue="Application.BJ9935" />
+        <item itemvalue="Application.BJ11866" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="da9e6e2b-90db-4f52-bfd4-a6b9bc183b32" name="Changes" comment="" />
-      <created>1700534064751</created>
+      <changelist id="d4a03a1b-c2f5-4570-86e6-f84d587abbdc" name="Changes" comment="" />
+      <created>1703770097597</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1700534064751</updated>
-      <workItem from="1700534065691" duration="12105000" />
-      <workItem from="1700610887313" duration="16195000" />
-      <workItem from="1700697798278" duration="17986000" />
-      <workItem from="1700784806983" duration="14083000" />
-      <workItem from="1701045647576" duration="13922000" />
-      <workItem from="1701132136842" duration="9777000" />
-      <workItem from="1701215729914" duration="19996000" />
-      <workItem from="1701319909205" duration="12126000" />
-      <workItem from="1701388886030" duration="19609000" />
-      <workItem from="1701647907691" duration="24637000" />
-      <workItem from="1701733928454" duration="25172000" />
-      <workItem from="1701906685586" duration="20128000" />
-      <workItem from="1701993275595" duration="19404000" />
-      <workItem from="1702253005036" duration="11000" />
-      <workItem from="1702253025233" duration="20672000" />
-      <workItem from="1702338864301" duration="20507000" />
-      <workItem from="1702425101500" duration="23599000" />
-      <workItem from="1702512333524" duration="3589000" />
-      <workItem from="1702530121290" duration="1912000" />
-      <workItem from="1702598477413" duration="8811000" />
-      <workItem from="1702629735494" duration="594000" />
-      <workItem from="1702802285068" duration="4899000" />
+      <updated>1703770097597</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/java_lang_project$TcpMultiChatClient.ic" NAME="TcpMultiChatClient Coverage Results" MODIFIED="1702351101649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>day17.network_chat.*</FILTER>
-    </SUITE>
   </component>
 </project>
